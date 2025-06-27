@@ -1,0 +1,25 @@
+Are all results the same?
+----- s = 0 -----
+sequence: True
+f: True
+likelihood: True
+sequence_mat: True
+f_mat: True
+likelihood_mat: True
+----- s = 1 -----
+sequence: True
+f: True
+likelihood: True
+sequence_mat: True
+f_mat: True
+likelihood_mat: True
+----- s = 2 -----
+sequence: True
+f: True
+likelihood: True
+sequence_mat: True
+f_mat: True
+likelihood_mat: True
+
+time_reg: 261.253
+time_dp: 149.833
